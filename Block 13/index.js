@@ -19,8 +19,8 @@ else if(input===""){
 }
 
 
-var num1 = 50
-var num2 = 51
+var num1 = 500
+var num2 = -500
 
 var sum = num1+num2
 
@@ -40,8 +40,8 @@ else if (sum < 0){
     console.log(sum + " is a negative number")
 }
 
-var num1 = 5
-var num2 = 6
+var num1 = 4
+var num2 = 4
 
 if (num1 && num2 >= 5){
     console.log("true")
